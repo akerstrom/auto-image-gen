@@ -15,10 +15,10 @@ Automatically stores the generated images in Azure Storage, offering a secure an
 ### Azure CosmosDB
 Metadata and other details of the generated image are saved in Azure CosmosDB, providing fast and scalable access to image data.
 
-### Auto-Scheduling
+### Auto-Scheduling (coming)
 Automated task scheduler for image generation, allowing users to set the frequency and timing for automatic image generation and storage.
 
-### User Dashboard
+### User Dashboard (coming)
 Provides a user-friendly dashboard to view, search, and manage generated images and their metadata.
 
 ### Technical Architecture
